@@ -1,0 +1,142 @@
+ID,DATE,RESULT,POTROS GOALS,OPPONENT GOALS,OPPONENT,COMPETITION
+0,10/7/18,Win,1,0,HCU Elite,1
+1,10/14/18,Draw,1,1,Majestic Red,1
+2,10/21/18,Loss,1,2,GA Tech Club,1
+3,10/28/18,Win,2,1,Revs U23,1
+4,11/4/18,Win,3,1,Terminus - KLS FC,2
+5,11/18/18,Win,5,4,Relegators FC,1
+6,12/2/18,Loss,0,2,Vinotinto Academy,1
+7,12/9/18,Win,2,1,MOBA Upper 90,1
+8,1/13/19,Win,5,3,Sting Black,1
+9,1/27/19,Win,4,3,AFC Clayton,1
+10,2/3/19,Win,4,0,Revs Blue,1
+11,2/10/19,Win,7,2,MOBA Upper 90,2
+12,3/10/19,Loss,3,7,RYSA Adult,1
+13,3/17/19,Loss,0,6,VaHi ATLetic Old Boys,1
+14,3/24/19,Win,2,0,Terminus - KLS FC,1
+15,3/24/19,Win,2,1,Little Five FC,1
+16,3/31/19,Loss,2,3,Fury FC,1
+17,3/31/19,Loss,0,13,Revily FC,2
+18,4/14/19,Win,0,0,VaHi ATLetic Juniors,1
+19,9/22/19,Win,2,1,Prima FC,1
+20,9/29/19,Win,2,1,AFU South Elite,1
+21,10/6/19,Win,3,2,Terminus KLS,1
+22,10/27/19,Win,10,1,Pegasus,2
+23,11/3/19,Win,3,0,Sting Black,1
+24,11/10/19,Win,9,0,AFC Clayton,1
+25,11/17/19,Win,3,0,Majestic Red ,1
+26,11/24/19,Loss,1,2,Georgia Revolution U23,1
+27,12/8/19,Loss,1,2,Wings Premier,2
+28,1/12/20,Win,4,0,Georgia Revolution U21,1
+29,1/19/20,Win,6,1,MOBA Upper 90,1
+30,1/26/20,Win,4,1,Buckhead SC,1
+31,2/2/20,Win,7,0,Pegasus,1
+32,2/9/20,Loss,2,3,Prima FC,1
+33,2/23/20,Win,6,0,MOBA Knights,1
+34,3/1/20,Win,0,0,Gladiators FC,1
+35,3/8/20,Win,4,0,Sting Black,1
+36,8/29/20,Loss,1,2,LSA Limeño,3
+37,9/5/20,Loss,0,4,Ginga Atlanta FC,3
+38,9/12/20,Loss,0,2,Cornerstone Top Pro,3
+39,9/19/20,Loss,1,3,Seas Jamaica United FC,3
+40,9/26/20,Loss,1,2,Forest Rovers FC,3
+41,10/3/20,Draw,3,3,FC Matata,3
+42,10/17/20,Draw,0,0,Futuro FC,3
+43,10/24/20,Loss,1,2,Futuro FC,3
+44,10/31/20,Loss,0,6,LSA Limeño,3
+45,11/7/20,Loss,1,2,Ginga Atlanta FC,3
+46,11/14/20,Win,5,2,Cornerstone Top Pro,3
+47,11/21/20,Loss,1,2,Seas Jamaica United FC,3
+48,11/28/20,Loss,2,5,FC Matata,3
+49,12/5/20,Win,4,2,Forest Rovers FC,3
+50,1/17/21,Draw,0,0,11 Oriental,4
+51,1/24/21,Draw,0,0,Iraq FC,4
+52,1/31/21,Win,5,1,Libertadores,4
+53,2/7/21,Win,3,0,Tigres,4
+54,2/14/21,Win,2,1,KSA-03,4
+55,2/28/21,Win,2,1,Man City,4
+56,3/7/21,Loss,0,5,CD Aguila,4
+57,3/14/21,Win,1,0,Forest Rovers FC,3
+58,3/20/21,Loss,3,4,Atlanta Elephants FC,3
+59,3/21/21,Draw,1,1,CD Platense,4
+60,3/27/21,Loss,0,3,Atletico Atlanta ,3
+61,3/28/21,Loss,0,2,Alianza FC,4
+62,4/3/21,Loss,2,4,Kalonji Pro-Profile,3
+63,4/4/21,Draw,0,0,CD Olimpia,4
+64,4/11/21,Win,3,2,FC Stone Mountain,3
+65,4/17/21,Win,2,0,Rovers FC,3
+66,4/18/21,Loss,0,2,CD Marquense,4
+67,4/24/21,Loss,0,3,Seas Jamaica All Stars FC,3
+68,4/25/21,Win,0,0,KSA Pro-Profile,4
+69,5/1/21,Win,2,0,Club ATLetic,3
+70,5/2/21,Draw,0,0,Anamoros,4
+71,5/8/21,Loss,2,5,FC Matata,3
+72,5/15/21,Draw,2,2,LSA Limeño,3
+73,5/16/21,Win,3,0,Libertadores,4
+74,5/23/21,Win,4,2,11 Oriental,4
+75,5/30/21,Loss,0,2,Anamoros,4
+76,6/6/21,Loss,1,5,LSA Limeño,3
+77,8/28/21,Loss,2,3,Atletico Atlanta,3
+78,9/4/21,Draw,2,2,Kalonji Pro-Profile,3
+79,9/11/21,Win,2,0,Georgia Storm FC,3
+80,9/19/21,Loss,1,2,Atlanta Elephants FC,3
+81,9/25/21,Loss,2,3,Rovers FC,3
+82,9/26/21,Loss,1,2,ATLetic Old Boys,1
+83,10/3/21,Draw,0,0,Cavalier Football Club,1
+84,10/10/21,Win,2,1,Terminus KLS,1
+85,10/17/21,Win,3,0,Savannah Clovers FC,3
+86,10/23/21,Loss,1,2,Atlanta United Academy,3
+87,10/24/21,Win,4,0,Sting Black,1
+88,10/31/21,Win,2,1,East Atlanta FC Reserves,2
+89,11/6/21,Win,2,1,Augusta United FC,3
+90,11/7/21,Win,2,0,Historic South Atlanta,1
+91,11/14/21,Win,2,1,East Atlanta FC Reserves,1
+92,11/21/21,Loss,1,2,Seas Jamaica All Stars FC,3
+93,11/21/21,Win,2,1,Club The Strongest Atlanta,1
+94,11/27/21,Loss,0,1,Limeño Georgia,3
+95,12/5/21,Win,3,0,Brute Force Blue,1
+96,12/12/21,Loss,2,4,Majestic,2
+97,1/23/22,Win,1,0,Brute Force Blue,1
+98,1/30/22,Win,10,1,Brute Force Orange,1
+99,2/5/22,Loss,2,4,Club The Strongest Atlanta,5
+100,2/6/22,Loss,0,3,East Atlanta FC Reserves,1
+101,2/12/22,Win,4,3,Pre-College DA,5
+102,2/13/22,Loss,0,2,Sting Black,1
+103,2/19/22,Draw,0,0,Limeño Georgia U-20,5
+104,2/20/22,Win,3,0,ATLetic Old Boys,1
+105,2/27/22,Win,6,0,Historic South Atlanta,1
+106,3/13/22,Win,4,0,Terminus KLS,1
+107,3/27/22,Win,3,2,Majestic Red,1
+108,4/3/22,Win,0,0,Brute Force Orange,1
+109,4/3/22,Win,2,1,Rovers FC,3
+110,4/9/22,Win,1,0,Atlanta Elephants FC,3
+111,4/10/22,Win,3,1,Cavalier FC,1
+112,4/17/22,Loss,1,2,Georgia FC,3
+113,4/23/22,Loss,0,3,Kalonji Pro-Profile,3
+114,4/24/22,Win,5,1,Club The Strongest Atlanta,1
+115,5/1/22,Win,6,1,Majestic Red,1
+116,5/1/22,Win,2,1,FC Birmingham,3
+117,5/7/22,Win,5,2,Augusta United FC,3
+118,5/15/22,Draw,1,1,FC Matata,3
+119,5/21/22,Win,3,0,Club the Stongest Atlanta,3
+120,5/29/22,Loss,2,4,Seas Jamaica All Stars,3
+121,5/31/22,Win,5,2,Limeño Georgia,3
+122,6/3/22,Draw,0,0,Atlanta United Academy,3
+123,6/12/22,Loss,1,4,Soccer in the Streets LA Mercy,6
+124,6/12/22,Loss,1,2,Terminus FC,6
+125,6/12/22,Loss,1,3,Georgia FC,3
+126,6/19/22,Win,2,0,Peachtree FC,6
+127,6/19/22,Loss,0,2,Georgia Revolution U23,6
+128,6/26/22,Loss,1,3,Terminus FC,6
+129,6/26/22,Win,8,1,Historic South Atlanta,6
+130,7/9/22,Win,1,0,FC Atlanta Academy,5
+131,7/10/22,Win,4,1,Historic South Atlanta,6
+132,7/10/22,Win,4,0,Brute Force Blue,6
+133,7/16/22,Draw,2,2,Kalonji Pro-Profile U23,5
+134,7/17/22,Win,4,1,Soccer in the Streets LA Mercy,6
+135,7/17/22,Loss,0,5,Brute Force Blue,6
+136,7/23/22,Win,2,0,Middle Georgia United,5
+137,7/24/22,Win,3,0,Georgia Revolution U23,6
+138,7/24/22,Win,1,0,Peachtree FC,6
+139,7/30/22,Loss,1,2,Kalonji Pro-Profile,5
+140,7/31/22,Loss,2,4,Terminus FC,6
